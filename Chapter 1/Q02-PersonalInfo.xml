@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PersonalInfo>
+	<RollNo>
+		1
+	</RollNo>
+	<Name>
+		John
+	</Name>
+	<Address>
+		123 street
+	</Address>
+	<Mobile>
+		1234567890
+	</Mobile>
+	<DOB>
+		09/11/2004
+	</DOB>
+	<Age>
+		19
+	</Age>
+	<Qualification>
+		PHD
+	</Qualification>
+</PersonalInfo>

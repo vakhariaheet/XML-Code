@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmployeeNo>
+    <EmployeeNo>1</EmployeeNo>
+    <Name>John Doe</Name>
+    <Department>Computer Science</Department>
+    <ManagerName>Theo Faber</ManagerName>
+    <ProjectAssign>
+        <Project1>Project 1</Project1>
+        <Project2>Project 2</Project2>
+        <Project3>Project 3</Project3>
+    </ProjectAssign>
+    <Designation>Manager</Designation>
+
+</EmployeeNo>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    !TODO Need a confirmation from mam 
+-->
+<Email>
+	<Message from="xml@heetvakharia.in" to="hello@heetvakharia.in" subject="Test">
+	</Message>
+</Email>

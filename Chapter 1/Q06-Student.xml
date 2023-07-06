@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+	<Name>
+		<FName>
+			John
+		</FName>
+		<LName>
+			Doe
+		</LName>
+	</Name>
+	<Id>
+		1
+	</Id>
+	<Plan>
+		<Courses year="2023">
+			<Course>
+				<Name>
+					Computer Science
+				</Name>
+				<ShortName>
+					CS
+				</ShortName>
+				<Record>
+					<Grade>
+						A
+					</Grade>
+					<Date>
+						01/01/2023
+					</Date>
+				</Record>
+			</Course>
+		</Courses>
+	</Plan>
+</Student>

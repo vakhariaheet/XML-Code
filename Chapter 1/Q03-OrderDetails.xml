@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OrderDetail>
+	<OrderNumber>
+		1.
+	</OrderNumber>
+	<OrderDate>
+		07/07/2023
+	</OrderDate>
+	<OrderAmt>
+		500.00
+	</OrderAmt>
+	<ItemPrice>
+		100.00
+	</ItemPrice>
+	<ItemName>
+		Pen
+	</ItemName>
+	<Quantity>
+		5
+	</Quantity>
+</OrderDetail>

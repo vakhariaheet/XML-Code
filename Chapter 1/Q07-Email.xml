@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Create an XML document Email where it contains the following data :
+Email (from , to ,content ( person , exercises(exercise (topic ,
+description) ) , course ).
+-->
+<Email>
+	<From>
+		xml@heetvakharia.in
+	</From>
+	<To>
+		hello@heetvakharia.in
+	</To>
+	<Content>
+		<person>
+			John Doe
+		</person>
+		<Exercises>
+			<Exercise>
+				<Topic>
+					XML
+				</Topic>
+				<Description>
+					XML is a markup language that encodes documents in a machine-readable and human-readable format.
+				</Description>
+			</Exercise>
+		</Exercises>
+	</Content>
+</Email>

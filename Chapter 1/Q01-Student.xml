@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Student>
+	<StudentName>
+		John
+	</StudentName>
+	<PersonalInfo>
+		<Address>
+			123 street
+		</Address>
+		<Birthdate>
+			09/11/2004
+		</Birthdate>
+		<Gender>
+			Male
+		</Gender>
+		<MobileNo>
+			1234567890
+		</MobileNo>
+	</PersonalInfo>
+	<Result>
+		<Total>
+			500
+		</Total>
+		<Percentage>
+			80
+		</Percentage>
+		<Grade>
+			A
+		</Grade>
+	</Result>
+</Student>

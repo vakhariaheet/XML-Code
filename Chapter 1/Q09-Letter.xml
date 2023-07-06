@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Letter>
+	<Contact type="manager">
+		<Name>
+			John Doe
+		</Name>
+		<Address>
+			123 Street
+		</Address>
+		<City>
+			Florida City
+		</City>
+		<Pin>
+			12345
+		</Pin>
+		<State>
+			Florida
+		</State>
+		<Flag gender="Male">
+		</Flag>
+		<Paragraph>
+			Historical cryptography is the art of writing and deciphering secret messages. Modern cryptography is the scientific study of problems relating to distributed computations that can be attacked. Technologies studied in modern cryptography include symmetric and asymmetric encryption, digital signatures, cryptographic hash functions, key-agreement protocols, blockchain, zero-knowledge proofs, and garbled circuits.
+		</Paragraph>
+		<Closing>
+			Yours Sincerely
+		</Closing>
+		<Signature>
+			John Doe
+		</Signature>
+	</Contact>
+</Letter>
