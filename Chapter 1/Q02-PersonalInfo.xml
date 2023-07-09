@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Create XML document for storing personal information about student where
+it contains the following data:
+Personal Info( Roll no, Name, Address, Mobile, DOB, Age,
+Qualification) -->
 <PersonalInfo>
 	<RollNo>
 		1

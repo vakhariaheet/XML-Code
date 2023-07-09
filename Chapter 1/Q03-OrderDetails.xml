@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Create XML document OrderDetail where it contains the following data:
+Order Detail(Order Number, Order Date, Order Amount,Item Price,
+Item Name, Quantity) -->
 <OrderDetail>
 	<OrderNumber>
 		1.

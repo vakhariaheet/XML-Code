@@ -26,4 +26,7 @@ description) ) , course ).
 			</Exercise>
 		</Exercises>
 	</Content>
+	<Course>
+		iMsCIT
+	</Course>
 </Email>
