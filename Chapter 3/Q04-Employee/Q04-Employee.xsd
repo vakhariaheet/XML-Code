@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xsd:element name="EmployeeInfo">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="Employee" maxOccurs="unbounded">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="Child" maxOccurs="2" minOccurs="0">
+								<xsd:simpleType>
+									<xsd:restriction base="xsd:string">
+										<xsd:enumeration value="Boy"></xsd:enumeration>
+										<xsd:enumeration value="Girl"></xsd:enumeration>
+										
+									</xsd:restriction>
+								</xsd:simpleType>
+							</xsd:element>
+						</xsd:sequence>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

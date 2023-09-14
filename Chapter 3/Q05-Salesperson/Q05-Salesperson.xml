@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Salesperson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Q05-Salesperson.xsd">
+	<Name>John Doe</Name>
+	<BussinessInfo>
+		<Company>Heet</Company>
+		<Department>Sales</Department>
+		<Manager>John Doe</Manager>
+		<PhoneNo>9104680032</PhoneNo>
+		<Email>heet@heetvakharia.in</Email>
+	</BussinessInfo>
+	<PersonalInfo>
+		<PhoneNo>9104680032</PhoneNo>
+		<Address>Ahmedabad</Address>
+	</PersonalInfo>
+</Salesperson>

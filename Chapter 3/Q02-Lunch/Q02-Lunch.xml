@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Lunch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Q02-Lunch.xsd">
+	<Starter>
+		<Juicer></Juicer>
+	</Starter>
+	<MainCourse>
+		<VegLunch></VegLunch>
+	</MainCourse>
+	<Dessert>
+		<IceCream></IceCream>
+	</Dessert>
+</Lunch>

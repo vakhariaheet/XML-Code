@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<EmployeeInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Q04-Employee.xsd">
+	<Employee>
+		<Child>Boy</Child>
+		<Child>Girl</Child>
+	</Employee>
+	<Employee>
+		<Child>Boy</Child>
+		
+	</Employee>
+	<Employee>
+		
+	</Employee>
+</EmployeeInfo>

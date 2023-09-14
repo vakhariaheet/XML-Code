@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE Email [
+    <!ELEMENT Email (Message)>
+    <!ELEMENT Message (#PCDATA)>
+    <!ATTLIST Message from CDATA #REQUIRED>
+    <!ATTLIST Message to CDATA #REQUIRED>
+    <!ATTLIST Message subject CDATA #REQUIRED>
+]>
+
+
+<Email>
+    <Message from="heet@heetvakharia.in" to="demo@heetvakharia.in" subject="Text"></Message>
+</Email>

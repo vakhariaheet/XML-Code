@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Q03-Student.xsd">
+	<StudentName>John Doe</StudentName>
+	<PersonalInfo>
+		<Address>Ahmedabad</Address>
+		<Birthdate>2005-02-05</Birthdate>
+		<Gender>Male</Gender>
+		<MobileNo>9104680032</MobileNo>
+	</PersonalInfo>
+	<Result>
+		<Total>225</Total>
+		<Percentage>80</Percentage>
+		<Grade>A</Grade>
+	</Result>
+</Student>
